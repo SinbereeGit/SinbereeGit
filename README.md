@@ -1,5 +1,5 @@
 # About me
 
-## Huge fan of: RMS
+## 😊 Huge fan of: RMS, Linus.Torvalds, GoF.
 
-## Awesome: VSCode
+## Awesome: VSCode.
