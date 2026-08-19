@@ -1,7 +1,5 @@
 # About me
 
-## Huge fan of: RMS
-
-## OS: Arch Linux
-
-## Editor: Neovim / VSCode
+- Huge fan of: RMS
+- OS: Arch Linux
+- Editor: Neovim / VSCode
