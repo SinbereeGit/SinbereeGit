@@ -1,7 +1,7 @@
 # About me
 
-- huge fan of: RMS
-- os: Arch Linux
+- huge fan of: rms
+- os: arch linux
 - wm: rivertile in river-classic
 - sb: dam
-- editor: Neovim / VSCode
+- editor: neovim / vscode
