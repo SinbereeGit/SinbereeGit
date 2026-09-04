@@ -2,6 +2,5 @@
 
 - huge fan of: rms
 - os: arch linux
-- wm: rivertile in river-classic
-- sb: dam
+- wm + sb: rivertile in river-classic + dam
 - editor: neovim / vscode
